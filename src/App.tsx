@@ -13,7 +13,7 @@ const App = () => {
     e.preventDefault();
 
     const post: Post = {
-      id: Math.random() * 100,
+      id: Number((Math.random() * 100).toFixed(2)),
       title,
       body,
     };
