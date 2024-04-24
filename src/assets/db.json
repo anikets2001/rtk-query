@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "first post",
+      "body": "body1"
+    },
+    {
+      "id": 2,
+      "title": "second post",
+      "body": "body2"
+    },
+    {
+      "id": 72.01199892010781,
+      "title": "new post",
+      "body": "new body"
+    },
+    {
+      "id": 92.13119757705437,
+      "title": "here ",
+      "body": "it is"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "title": "first comment",
+      "body": "body3"
+    },
+    {
+      "id": 2,
+      "title": "second comment",
+      "body": "body4"
+    },
+    {
+      "id": 3,
+      "title": "third comment",
+      "body": "body5"
+    }
+  ],
+  "profile": [
+    {
+      "id": 1,
+      "title": "Aniket",
+      "body": "body6"
+    },
+    {
+      "id": 2,
+      "title": "Nikhil",
+      "body": "body7"
+    },
+    {
+      "id": 3,
+      "title": "Hemant",
+      "body": "body8"
+    }
+  ]
+}
